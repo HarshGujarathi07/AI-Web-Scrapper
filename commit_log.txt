@@ -10,3 +10,4 @@
 2025-07-18T20:45:00: Refactored scraping pipeline for efficiency
 2025-04-17T16:59:00: Implemented rate-limiting to avoid bans
 2024-07-30T08:39:00: Refactored data storage logic for scalability
+2024-07-15T10:17:00: Enhanced proxy support for better anonymity
