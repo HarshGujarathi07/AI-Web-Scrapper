@@ -9,3 +9,4 @@
 2024-07-26T09:37:00: Implemented dynamic web scraping with Selenium
 2025-07-18T20:45:00: Refactored scraping pipeline for efficiency
 2025-04-17T16:59:00: Implemented rate-limiting to avoid bans
+2024-07-30T08:39:00: Refactored data storage logic for scalability
