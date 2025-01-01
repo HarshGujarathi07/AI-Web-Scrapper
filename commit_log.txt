@@ -19,3 +19,4 @@
 2024-08-16T04:12:00: Added real-time data extraction feature
 2025-02-16T20:34:00: Improved CAPTCHA bypass mechanism
 2024-01-07T00:47:00: Improved CAPTCHA bypass mechanism
+2025-01-01T16:47:00: Updated README with new usage examples
