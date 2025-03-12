@@ -41,10 +41,7 @@ web_scraping_platform/
 
 1.  **Clone the Repository:**
 
-    ```bash
-    git clone <your_repository_url>
-    cd web_scraping_platform
-    ```
+ 
 
 2.  **Create a Virtual Environment (Recommended):**
 
