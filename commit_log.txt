@@ -5,3 +5,4 @@
 2024-04-02T15:14:00: Added AI-based content extraction model
 2025-03-03T15:30:00: Added real-time data extraction feature
 2024-03-28T10:22:00: Updated documentation with latest scraping techniques
+2025-12-17T16:07:00: Added support for scraping JavaScript-rendered content
